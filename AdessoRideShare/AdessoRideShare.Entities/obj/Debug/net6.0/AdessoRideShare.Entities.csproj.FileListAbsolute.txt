@@ -1,0 +1,12 @@
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\bin\Debug\net6.0\AdessoRideShare.Entities.deps.json
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\bin\Debug\net6.0\AdessoRideShare.Entities.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\bin\Debug\net6.0\AdessoRideShare.Entities.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.csproj.AssemblyReference.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.AssemblyInfoInputs.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.AssemblyInfo.cs
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.csproj.CoreCompileInputs.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\refint\AdessoRideShare.Entities.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\AdessoRideShare.Entities.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Entities\obj\Debug\net6.0\ref\AdessoRideShare.Entities.dll

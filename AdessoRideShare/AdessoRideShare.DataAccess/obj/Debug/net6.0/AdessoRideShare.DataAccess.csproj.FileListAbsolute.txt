@@ -1,0 +1,17 @@
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\bin\Debug\net6.0\AdessoRideShare.DataAccess.deps.json
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\bin\Debug\net6.0\AdessoRideShare.DataAccess.runtimeconfig.json
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\bin\Debug\net6.0\AdessoRideShare.DataAccess.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\bin\Debug\net6.0\AdessoRideShare.DataAccess.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\bin\Debug\net6.0\AdessoRideShare.Entities.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\bin\Debug\net6.0\AdessoRideShare.Entities.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.csproj.AssemblyReference.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.AssemblyInfoInputs.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.AssemblyInfo.cs
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.csproj.CopyComplete
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\refint\AdessoRideShare.DataAccess.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\AdessoRideShare.DataAccess.genruntimeconfig.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.DataAccess\obj\Debug\net6.0\ref\AdessoRideShare.DataAccess.dll

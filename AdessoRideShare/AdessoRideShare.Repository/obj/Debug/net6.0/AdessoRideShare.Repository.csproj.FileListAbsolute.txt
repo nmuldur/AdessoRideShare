@@ -1,0 +1,17 @@
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.Repository.deps.json
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.Repository.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.Repository.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.DataAccess.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.Entities.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.DataAccess.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\bin\Debug\net6.0\AdessoRideShare.Entities.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.csproj.AssemblyReference.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.AssemblyInfoInputs.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.AssemblyInfo.cs
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.csproj.CoreCompileInputs.cache
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.csproj.CopyComplete
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\refint\AdessoRideShare.Repository.dll
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\AdessoRideShare.Repository.pdb
+C:\Users\nuri.muldur\source\repos\AdessoRideShare\AdessoRideShare.Repository\obj\Debug\net6.0\ref\AdessoRideShare.Repository.dll
